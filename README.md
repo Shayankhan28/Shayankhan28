@@ -5,7 +5,6 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: mshayankhan258@gmail.com
 
-<!-- 😄 My website: https://thetechbrothers.net-->
 
 ### Connect with me:
 <div id="badges">
@@ -18,12 +17,7 @@
    <a href="https://www.instagram.com/mshayankhan28">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-<!--    <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+
 </div>
 
 ### Languages and Tools:
