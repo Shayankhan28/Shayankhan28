@@ -21,15 +21,10 @@
 </div>
 
 ## 🚀 Languages and Tools
-## 🚀 Languages and Tools
+
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,git,github,cpp,vscode,java" />
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Shayankhan28&show_icons=true&theme=dark" />
-
-## 🧠 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=dark" />
 
 <br>
 ⭐️ From [Shayankhan28](https://github.com/aShayankhan28
