@@ -20,12 +20,21 @@
 
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,py,github,git,cpp,vscode,java&perline=5)](https://skillicons.dev)
+## 🚀 Languages and Tools
 
-![M.Shayan khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayankhan28&show_icons=true&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,github,git,cpp,vscode,java&perline=5)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayankhan28&theme=dark)
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shayankhan28&show_icons=true&theme=dark)
+
+---
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=dark)
 
 
 <br>
