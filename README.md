@@ -1,36 +1,138 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shayan Khan</h1>
 
-- 🔭 I'm currently working on **AI/ML projects** — Deep Learning, Computer Vision & NLP
-- 🌱 I'm currently learning **MLOps & Model Deployment** (MLflow, FastAPI)
-- 💬 Ask me anything about **Machine Learning, Deep Learning, or Data Analysis**
-- 📫 How to reach me: mshayankhan258@gmail.com
+<h3 align="center">Machine Learning Engineer | AI Developer | Deep Learning Enthusiast | Software Engineering Student</h3>
 
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/Shayankhan28">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-<a href="https://www.linkedin.com/in/m-shayan-khan-249a6b25a">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+Passionate about building intelligent AI systems using Machine Learning, Deep Learning, and Computer Vision while also developing modern applications with Flutter and FastAPI.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering Student at COMSATS University Islamabad
+- 🤖 Currently working on **Machine Learning & Deep Learning Projects**
+- 🧠 Learning **Computer Vision, CNNs, Video Deepfake Detection & MLOps**
+- 📱 Experienced in **Flutter App Development**
+- ⚡ Building AI APIs using **FastAPI**
+- 💬 Ask me about **Python, Machine Learning, Flutter, TensorFlow & FastAPI**
+- 📫 Reach me at: **mshayankhan258@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Shayankhan28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-   <a href="https://www.instagram.com/mshayankhan28">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/m-shayan-khan-249a6b25a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/mshayankhan28">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,dart" />
+</p>
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Computer Vision
+- OpenCV
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+### 🌐 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,nodejs" />
+</p>
+
+- FastAPI
+- REST APIs
+
+---
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Deep Learning
+- CNN Architectures
+- Transfer Learning
+- Computer Vision
+- Video Deepfake Detection
+- MLOps
+- Docker
+- PostgreSQL
+
+---
+
+## 📌 Featured Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📷 Computer Vision
+- 🎥 Deepfake Detection
+- 📊 Data Science
+- 📱 Mobile Applications
+- 🌐 Backend Development
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning, Building & Growing Every Day."* 🚀
+
 </div>
-
-## 🚀 Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,git,github,vscode,cpp,java" />
-
-## 📊 Data Science & ML Stack
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-⭐️ From [Shayankhan28](https://github.com/aShayankhan28)
