@@ -224,14 +224,6 @@ Real-World AI Projects
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shayankhan28&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="80%" src="https://streak-stats.demolab.com?user=Shayankhan28&theme=tokyonight&hide_border=true"/>
 
 </p>
