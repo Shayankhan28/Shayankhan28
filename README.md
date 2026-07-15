@@ -128,7 +128,7 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 ## 🗄️ Databases
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=firebase,postgresql,sqlite"/>
 
@@ -145,7 +145,7 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 ## 🛠️ Tools
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman"/>
 
@@ -224,9 +224,9 @@ Real-World AI Projects
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shayankhan28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shayankhan28&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
