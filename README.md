@@ -33,7 +33,7 @@
 - Building an AI Resume Screening System
 - Working with Machine Learning & Deep Learning
 - Applying Computer Vision techniques
-- Building REST APIs using FastAPI
+- Building backend APIs with FastAPI
 
 ---
 
