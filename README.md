@@ -186,15 +186,15 @@ Video Deepfake Detection
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shayankhan28&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shayankhan28&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayankhan28&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shayankhan28&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Shayankhan28&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -204,7 +204,7 @@ Video Deepfake Detection
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayankhan28&theme=tokyo-night"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shayankhan28&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
