@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shayan Khan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;AI+Developer;Deep+Learning+Enthusiast;Computer+Vision+Learner;FastAPI+Developer;Flutter+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;AI+Developer;Deep+Learning+Enthusiast;Computer+Vision+Learner;FastAPI+Developer;Flutter+Developer" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shayankhan28&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Shayankhan28&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
@@ -13,11 +13,11 @@
 # 👨‍💻 About Me
 
 - 🎓 Software Engineering Student at **COMSATS University Islamabad**
-- 🤖 Machine Learning & AI Developer
-- 🧠 Passionate about Deep Learning, Computer Vision & Generative AI
+- 🤖 AI / Machine Learning Enthusiast
+- 💼 Currently working as an **AI/ML Intern at Adivantech Pvt. Ltd.**
+- 🧠 Currently learning **Deep Learning, CNNs & Computer Vision**
 - 📱 Flutter Developer
-- ⚡ Building AI APIs with FastAPI
-- 🌱 Currently learning **CNNs, Transfer Learning, LLMs, Agentic AI & RAG**
+- ⚡ Building AI APIs using **FastAPI**
 - 💬 Ask me about **Python, TensorFlow, Machine Learning, Flutter & FastAPI**
 - 📫 **mshayankhan258@gmail.com**
 
@@ -25,16 +25,15 @@
 
 # 💼 Experience
 
-### 🤖 AI/ML Intern
-**Adivantech Pvt. Ltd.** *(Current)*
+## 🤖 AI/ML Intern
 
-- Working on AI-powered solutions
-- Machine Learning
-- Deep Learning
-- Resume Screening System
-- Computer Vision
+### **Adivantech Pvt. Ltd.** *(Jul 2026 – Present)*
 
-> 💡 Update this section whenever you join a new company.
+- Developing AI-powered applications
+- Building an AI Resume Screening System
+- Working with Machine Learning & Deep Learning
+- Applying Computer Vision techniques
+- Building REST APIs using FastAPI
 
 ---
 
@@ -71,33 +70,27 @@
 ## 🤖 AI / Machine Learning
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
-
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://skillicons.dev/icons?i=numpy"/>
+<img src="https://skillicons.dev/icons?i=pandas"/>
 </p>
 
-**Libraries & Frameworks**
+**Core Skills**
 
-`Machine Learning`
-`Deep Learning`
-`TensorFlow`
-`Scikit-Learn`
-`Computer Vision`
-`OpenCV`
-`ANN`
-`CNN`
-`NumPy`
-`Pandas`
-`Matplotlib`
-`Seaborn`
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Transfer Learning
+- TensorFlow
+- Scikit-Learn
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ---
 
@@ -106,6 +99,12 @@
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,firebase"/>
 </p>
+
+**Backend Skills**
+
+- FastAPI
+- Firebase
+- REST APIs
 
 ---
 
@@ -117,7 +116,7 @@
 
 ---
 
-## 🗄 Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,postgresql,sqlite"/>
@@ -125,44 +124,88 @@
 
 ---
 
-## 🛠 Tools
+## 🛠️ Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman"/>
-
-<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" height="48"/>
-
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="48"/>
-
 </p>
+
+**Other Tools**
+
+- Google Colab
+- Kaggle
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AI Resume Screening Tool
+
+AI-powered Resume Ranking System using Machine Learning and Sentence Transformers.
+
+**Tech Stack**
+
+Python • TensorFlow • FastAPI • NLP
+
+---
+
+## 🎥 DeepGuard (Final Year Project)
+
+Multi-Modal Deepfake Detection System using Computer Vision and Deep Learning.
+
+**Tech Stack**
+
+TensorFlow • OpenCV • FastAPI
+
+---
+
+## ❤️ Heart Disease Prediction
+
+Machine Learning web application for disease prediction.
+
+**Tech Stack**
+
+Scikit-Learn • Pandas • NumPy • Streamlit
+
+---
+
+## 📱 Flutter Applications
+
+- Weather App
+- Expense Tracker
+- Authentication System
 
 ---
 
 # 📚 Currently Learning
 
-- 🧠 Deep Learning
-- 🎥 Computer Vision
-- 🔥 CNN Architectures
+- 🔥 Deep Learning
+- 🧠 CNN Architectures
+- 👁️ Computer Vision
 - 🚀 Transfer Learning
-- 🤖 Generative AI
-- 💬 Large Language Models (LLMs)
-- 🤖 Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
+- 🎥 Video Deepfake Detection
 - ⚡ FastAPI
 - 🐳 Docker
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Future Interests
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- ✨ Generative AI
-- 🤖 Agentic AI
+- 🤖 Generative AI
 - 💬 Large Language Models (LLMs)
 - 📚 Retrieval-Augmented Generation (RAG)
+- 🤖 Agentic AI
+
+---
+
+# 📌 Current Focus
+
+`Machine Learning`
+➡️ `Deep Learning`
+➡️ `CNNs`
+➡️ `Computer Vision`
+➡️ `Transfer Learning`
+➡️ `Video Deepfake Detection`
 
 ---
 
@@ -194,48 +237,12 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shayankhan28&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📌 Current Focus
-
-```text
-Machine Learning
-        │
-        ▼
-Deep Learning
-        │
-        ▼
-Computer Vision
-        │
-        ▼
-Generative AI
-        │
-        ▼
-LLMs
-        │
-        ▼
-RAG
-        │
-        ▼
-Agentic AI
-```
-
----
-
 <div align="center">
 
 ## 🚀 Always Learning • Always Building • Always Improving
 
 *"Building Intelligent Systems, One Model at a Time."*
 
-⭐️ **Muhammad Shayan Khan**
+⭐ **Muhammad Shayan Khan**
 
 </div>
