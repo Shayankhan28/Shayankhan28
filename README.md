@@ -113,7 +113,6 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 - FastAPI
 - Firebase
-- REST API Development
 
 ---
 
@@ -242,23 +241,13 @@ Real-World AI Projects
 
 ---
 
-# 📖 Currently Reading
-
-- 📘 Deep Learning with TensorFlow & Keras
-- 📗 Computer Vision using OpenCV
-- 📙 FastAPI Documentation
-
----
-
 # 🎯 2026 Goals
 
-- ✅ Master Machine Learning
+- ✅ Master Machine Learning and ML-OPS
 - 🔄 Build Production-Level Deep Learning Models
 - 🎥 Complete **DeepGuard** (Multi-Modal Deepfake Detection)
 - 📄 Deploy AI Resume Screening System
 - 🚀 Learn Generative AI & LLMs
-- 🌍 Contribute to Open Source AI Projects
-
 ---
 
 <div align="center">
