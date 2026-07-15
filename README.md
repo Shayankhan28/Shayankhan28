@@ -60,7 +60,7 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 ## 👨‍💻 Programming Languages
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,dart"/>
 
@@ -70,7 +70,7 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 ## 🤖 AI / Machine Learning
 
-<p align="center">
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
 
@@ -103,7 +103,7 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 ## 🌐 Backend
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=fastapi,firebase"/>
 
@@ -118,7 +118,7 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 
 ## 📱 Mobile Development
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 
@@ -133,6 +133,13 @@ AI/ML Engineer | Deep Learning Enthusiast | Computer Vision Learner
 <img src="https://skillicons.dev/icons?i=firebase,postgresql,sqlite"/>
 
 </p>
+
+**Database Technologies**
+
+- Firebase
+- PostgreSQL
+- SQLite
+
 
 ---
 
@@ -179,7 +186,7 @@ Transfer Learning
 Video Deepfake Detection
         │
         ▼
-Docker
+      Docker
 ```
 
 ---
